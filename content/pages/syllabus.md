@@ -49,10 +49,71 @@ Assessment
 
 Your final grade for the subject will be based on the following THREE elements of assessment. Please note that failure in any one of the three elements of the subject will result in a failing grade for the whole.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class Participation {{< br >}}{{< br >}} Your grade for class participation will be based on the following:  {{< br >}}{{< br >}}   {{< br >}}_Attendance_  {{< br >}}You are required to attend both of the weekly lectures and your weekly recitation.  {{< br >}}{{< br >}}   {{< br >}}_Readings_  {{< br >}}You are required to complete all reading assignments in time for the meeting with which they are associated, as indicated in the Readings table. You are also required to bring with you to lecture/recitation a copy of any reading that has been assigned. {{< br >}}{{< br >}}   {{< br >}}_Active participation_  {{< br >}}You are expected to arrive at each of our meetings having completed all the reading and prepared to pose questions and _actively_ to contribute to the discussion of the material covered. {{< br >}}{{< br >}}  | 20% |
-|  {{< br >}}{{< br >}} Writing Assignments {{< br >}}{{< br >}} _3 papers + 1 revision_ {{< br >}}{{< br >}}  | 60% |
-| Final Exam | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class Participation
+
+Your grade for class participation will be based on the following: 
+
+  
+_Attendance_  
+You are required to attend both of the weekly lectures and your weekly recitation. 
+
+  
+_Readings_  
+You are required to complete all reading assignments in time for the meeting with which they are associated, as indicated in the Readings table. You are also required to bring with you to lecture/recitation a copy of any reading that has been assigned.
+
+  
+_Active participation_  
+You are expected to arrive at each of our meetings having completed all the reading and prepared to pose questions and _actively_ to contribute to the discussion of the material covered.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Writing Assignments
+
+_3 papers + 1 revision_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For further detail on the papers, see the [Assignments]({{< baseurl >}}/pages/assignments) section. For further detail on the final exam, see the [Exams]({{< baseurl >}}/pages/studymaterials) section.
